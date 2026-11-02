@@ -1,0 +1,1438 @@
+{
+  "source": {
+    "repository": "https://github.com/Lou34964/FBS-Logo-Library",
+    "directory": "CFB Logos",
+    "checked": "2026-10-14",
+    "assetsIncluded": false
+  },
+  "teams": [
+    {
+      "name": "Air Force",
+      "slug": "air-force",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Air Force"
+      ]
+    },
+    {
+      "name": "Akron",
+      "slug": "akron",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Akron"
+      ]
+    },
+    {
+      "name": "Alabama",
+      "slug": "alabama",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Alabama"
+      ]
+    },
+    {
+      "name": "Appalachian State",
+      "slug": "appalachian-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Appalachian State",
+        "App State"
+      ]
+    },
+    {
+      "name": "Arizona",
+      "slug": "arizona",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Arizona"
+      ]
+    },
+    {
+      "name": "Arizona State",
+      "slug": "arizona-state",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Arizona State"
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "slug": "arkansas",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Arkansas"
+      ]
+    },
+    {
+      "name": "Arkansas State",
+      "slug": "arkansas-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Arkansas State"
+      ]
+    },
+    {
+      "name": "Army",
+      "slug": "army",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Army",
+        "Army West Point",
+        "West Point"
+      ]
+    },
+    {
+      "name": "Auburn",
+      "slug": "auburn",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Auburn"
+      ]
+    },
+    {
+      "name": "BYU",
+      "slug": "byu",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "BYU",
+        "Brigham Young",
+        "Brigham Young University"
+      ]
+    },
+    {
+      "name": "Ball State",
+      "slug": "ball-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Ball State"
+      ]
+    },
+    {
+      "name": "Baylor",
+      "slug": "baylor",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Baylor"
+      ]
+    },
+    {
+      "name": "Boise State",
+      "slug": "boise-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Boise State",
+        "BSU Broncos"
+      ]
+    },
+    {
+      "name": "Boston College",
+      "slug": "boston-college",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Boston College",
+        "BC Eagles"
+      ]
+    },
+    {
+      "name": "Bowling Green",
+      "slug": "bowling-green",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Bowling Green",
+        "BGSU"
+      ]
+    },
+    {
+      "name": "Buffalo",
+      "slug": "buffalo",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Buffalo",
+        "UB Bulls",
+        "SUNY Buffalo"
+      ]
+    },
+    {
+      "name": "California",
+      "slug": "california",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "California",
+        "Cal",
+        "California Golden Bears",
+        "UC Berkeley"
+      ]
+    },
+    {
+      "name": "Central Michigan",
+      "slug": "central-michigan",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Central Michigan",
+        "CMU"
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "slug": "charlotte",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Charlotte"
+      ]
+    },
+    {
+      "name": "Cincinnati",
+      "slug": "cincinnati",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Cincinnati"
+      ]
+    },
+    {
+      "name": "Clemson",
+      "slug": "clemson",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Clemson"
+      ]
+    },
+    {
+      "name": "Coastal Carolina",
+      "slug": "coastal-carolina",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Coastal Carolina",
+        "CCU"
+      ]
+    },
+    {
+      "name": "Colorado",
+      "slug": "colorado",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Colorado"
+      ]
+    },
+    {
+      "name": "Colorado State",
+      "slug": "colorado-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Colorado State",
+        "CSU Rams"
+      ]
+    },
+    {
+      "name": "Delaware",
+      "slug": "delaware",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Delaware"
+      ]
+    },
+    {
+      "name": "Duke",
+      "slug": "duke",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Duke"
+      ]
+    },
+    {
+      "name": "East Carolina",
+      "slug": "east-carolina",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "East Carolina",
+        "ECU"
+      ]
+    },
+    {
+      "name": "Eastern Michigan",
+      "slug": "eastern-michigan",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Eastern Michigan",
+        "EMU"
+      ]
+    },
+    {
+      "name": "FIU",
+      "slug": "fiu",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "FIU",
+        "Florida International"
+      ]
+    },
+    {
+      "name": "Florida",
+      "slug": "florida",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Florida"
+      ]
+    },
+    {
+      "name": "Florida Atlantic",
+      "slug": "florida-atlantic",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Florida Atlantic",
+        "FAU",
+        "FAU Owls"
+      ]
+    },
+    {
+      "name": "Florida State",
+      "slug": "florida-state",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Florida State"
+      ]
+    },
+    {
+      "name": "Fresno State",
+      "slug": "fresno-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Fresno State"
+      ]
+    },
+    {
+      "name": "Georgia",
+      "slug": "georgia",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Georgia",
+        "UGA",
+        "Georgia Bulldogs"
+      ]
+    },
+    {
+      "name": "Georgia Southern",
+      "slug": "georgia-southern",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Georgia Southern",
+        "GSU Eagles"
+      ]
+    },
+    {
+      "name": "Georgia State",
+      "slug": "georgia-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Georgia State",
+        "GSU Panthers"
+      ]
+    },
+    {
+      "name": "Georgia Tech",
+      "slug": "georgia-tech",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Georgia Tech",
+        "GT",
+        "Georgia Institute of Technology"
+      ]
+    },
+    {
+      "name": "Houston",
+      "slug": "houston",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Houston"
+      ]
+    },
+    {
+      "name": "Illinois",
+      "slug": "illinois",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Illinois"
+      ]
+    },
+    {
+      "name": "Indiana",
+      "slug": "indiana",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Indiana"
+      ]
+    },
+    {
+      "name": "Iowa",
+      "slug": "iowa",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Iowa"
+      ]
+    },
+    {
+      "name": "Iowa State",
+      "slug": "iowa-state",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Iowa State",
+        "ISU Cyclones"
+      ]
+    },
+    {
+      "name": "Jacksonville State",
+      "slug": "jacksonville-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Jacksonville State",
+        "Jax State",
+        "JSU"
+      ]
+    },
+    {
+      "name": "James Madison",
+      "slug": "james-madison",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "James Madison"
+      ]
+    },
+    {
+      "name": "Kansas",
+      "slug": "kansas",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Kansas"
+      ]
+    },
+    {
+      "name": "Kansas State",
+      "slug": "kansas-state",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Kansas State",
+        "K State",
+        "KSU Wildcats"
+      ]
+    },
+    {
+      "name": "Kennesaw State",
+      "slug": "kennesaw-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Kennesaw State",
+        "KSU Owls"
+      ]
+    },
+    {
+      "name": "Kent State",
+      "slug": "kent-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Kent State",
+        "Kent State Golden Flashes"
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "slug": "kentucky",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Kentucky"
+      ]
+    },
+    {
+      "name": "LSU",
+      "slug": "lsu",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "LSU",
+        "Louisiana State",
+        "Louisiana State University"
+      ]
+    },
+    {
+      "name": "Liberty",
+      "slug": "liberty",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Liberty"
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "slug": "louisiana",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Louisiana",
+        "UL Lafayette",
+        "Louisiana Lafayette",
+        "Ragin Cajuns"
+      ]
+    },
+    {
+      "name": "Louisiana Tech",
+      "slug": "louisiana-tech",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Louisiana Tech",
+        "LA Tech"
+      ]
+    },
+    {
+      "name": "Louisiana-Monroe",
+      "slug": "louisiana-monroe",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Louisiana-Monroe",
+        "Louisiana Monroe",
+        "ULM",
+        "UL Monroe"
+      ]
+    },
+    {
+      "name": "Louisville",
+      "slug": "louisville",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Louisville"
+      ]
+    },
+    {
+      "name": "Marshall",
+      "slug": "marshall",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Marshall"
+      ]
+    },
+    {
+      "name": "Maryland",
+      "slug": "maryland",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Maryland"
+      ]
+    },
+    {
+      "name": "Memphis",
+      "slug": "memphis",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Memphis"
+      ]
+    },
+    {
+      "name": "Miami",
+      "slug": "miami",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Miami",
+        "Miami FL",
+        "Miami Florida",
+        "Miami Hurricanes",
+        "University of Miami"
+      ]
+    },
+    {
+      "name": "Miami (OH)",
+      "slug": "miami-oh",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Miami (OH)",
+        "Miami OH",
+        "Miami Ohio",
+        "Miami Redhawks",
+        "Miami University"
+      ]
+    },
+    {
+      "name": "Michigan",
+      "slug": "michigan",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Michigan"
+      ]
+    },
+    {
+      "name": "Michigan State",
+      "slug": "michigan-state",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Michigan State",
+        "MSU Spartans"
+      ]
+    },
+    {
+      "name": "Middle Tennessee",
+      "slug": "middle-tennessee",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Middle Tennessee",
+        "MTSU"
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "slug": "minnesota",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Minnesota"
+      ]
+    },
+    {
+      "name": "Mississippi State",
+      "slug": "mississippi-state",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Mississippi State",
+        "MSU Bulldogs"
+      ]
+    },
+    {
+      "name": "Missouri",
+      "slug": "missouri",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Missouri"
+      ]
+    },
+    {
+      "name": "Missouri State",
+      "slug": "missouri-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Missouri State",
+        "MO State"
+      ]
+    },
+    {
+      "name": "NC State",
+      "slug": "nc-state",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "NC State",
+        "North Carolina State",
+        "NCSU",
+        "NC State Wolfpack"
+      ]
+    },
+    {
+      "name": "Navy",
+      "slug": "navy",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Navy",
+        "US Naval Academy",
+        "Navy Midshipmen"
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "slug": "nebraska",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Nebraska"
+      ]
+    },
+    {
+      "name": "Nevada",
+      "slug": "nevada",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Nevada"
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "slug": "new-mexico",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "New Mexico",
+        "UNM"
+      ]
+    },
+    {
+      "name": "New Mexico State",
+      "slug": "new-mexico-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "New Mexico State",
+        "NMSU"
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "slug": "north-carolina",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "North Carolina",
+        "UNC",
+        "UNC Tar Heels"
+      ]
+    },
+    {
+      "name": "North Texas",
+      "slug": "north-texas",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "North Texas",
+        "UNT"
+      ]
+    },
+    {
+      "name": "Northern Illinois",
+      "slug": "northern-illinois",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Northern Illinois",
+        "NIU"
+      ]
+    },
+    {
+      "name": "Northwestern",
+      "slug": "northwestern",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Northwestern"
+      ]
+    },
+    {
+      "name": "Notre Dame",
+      "slug": "notre-dame",
+      "conference": "Independent",
+      "pool": "Power",
+      "aliases": [
+        "Notre Dame",
+        "ND",
+        "Fighting Irish"
+      ]
+    },
+    {
+      "name": "Ohio",
+      "slug": "ohio",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Ohio",
+        "Ohio Bobcats"
+      ]
+    },
+    {
+      "name": "Ohio State",
+      "slug": "ohio-state",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Ohio State",
+        "OSU Buckeyes",
+        "The Ohio State University"
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "slug": "oklahoma",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Oklahoma"
+      ]
+    },
+    {
+      "name": "Oklahoma State",
+      "slug": "oklahoma-state",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Oklahoma State",
+        "OSU Cowboys"
+      ]
+    },
+    {
+      "name": "Old Dominion",
+      "slug": "old-dominion",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Old Dominion",
+        "ODU"
+      ]
+    },
+    {
+      "name": "Ole Miss",
+      "slug": "ole-miss",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Ole Miss",
+        "Mississippi Rebels",
+        "Mississippi"
+      ]
+    },
+    {
+      "name": "Oregon",
+      "slug": "oregon",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Oregon"
+      ]
+    },
+    {
+      "name": "Oregon State",
+      "slug": "oregon-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Oregon State"
+      ]
+    },
+    {
+      "name": "Penn State",
+      "slug": "penn-state",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Penn State",
+        "Pennsylvania State",
+        "PSU"
+      ]
+    },
+    {
+      "name": "Pitt",
+      "slug": "pitt",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Pitt",
+        "Pittsburgh",
+        "Pittsburgh Panthers"
+      ]
+    },
+    {
+      "name": "Purdue",
+      "slug": "purdue",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Purdue"
+      ]
+    },
+    {
+      "name": "Rice",
+      "slug": "rice",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Rice"
+      ]
+    },
+    {
+      "name": "Rutgers",
+      "slug": "rutgers",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Rutgers"
+      ]
+    },
+    {
+      "name": "SMU",
+      "slug": "smu",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "SMU",
+        "Southern Methodist",
+        "Southern Methodist University"
+      ]
+    },
+    {
+      "name": "Sam Houston",
+      "slug": "sam-houston",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Sam Houston",
+        "Sam Houston State",
+        "SHSU"
+      ]
+    },
+    {
+      "name": "San Diego State",
+      "slug": "san-diego-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "San Diego State",
+        "SDSU"
+      ]
+    },
+    {
+      "name": "San Jose State",
+      "slug": "san-jose-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "San Jose State",
+        "SJSU"
+      ]
+    },
+    {
+      "name": "South Alabama",
+      "slug": "south-alabama",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "South Alabama",
+        "USA Jaguars"
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "slug": "south-carolina",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "South Carolina",
+        "South Carolina Gamecocks"
+      ]
+    },
+    {
+      "name": "South Florida",
+      "slug": "south-florida",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "South Florida",
+        "USF"
+      ]
+    },
+    {
+      "name": "Southern Miss",
+      "slug": "southern-miss",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Southern Miss",
+        "Southern Mississippi",
+        "USM"
+      ]
+    },
+    {
+      "name": "Stanford",
+      "slug": "stanford",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Stanford"
+      ]
+    },
+    {
+      "name": "Syracuse",
+      "slug": "syracuse",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Syracuse"
+      ]
+    },
+    {
+      "name": "TCU",
+      "slug": "tcu",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "TCU",
+        "Texas Christian"
+      ]
+    },
+    {
+      "name": "Temple",
+      "slug": "temple",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Temple"
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "slug": "tennessee",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Tennessee",
+        "Tennessee Volunteers"
+      ]
+    },
+    {
+      "name": "Texas",
+      "slug": "texas",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Texas",
+        "Texas Longhorns",
+        "UT Austin"
+      ]
+    },
+    {
+      "name": "Texas A&M",
+      "slug": "texas-a-m",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Texas A&M",
+        "Texas AM",
+        "TAMU",
+        "Aggies"
+      ]
+    },
+    {
+      "name": "Texas State",
+      "slug": "texas-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Texas State",
+        "TXST"
+      ]
+    },
+    {
+      "name": "Texas Tech",
+      "slug": "texas-tech",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Texas Tech",
+        "TTU"
+      ]
+    },
+    {
+      "name": "Toledo",
+      "slug": "toledo",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Toledo"
+      ]
+    },
+    {
+      "name": "Troy",
+      "slug": "troy",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Troy"
+      ]
+    },
+    {
+      "name": "Tulane",
+      "slug": "tulane",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Tulane"
+      ]
+    },
+    {
+      "name": "Tulsa",
+      "slug": "tulsa",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Tulsa"
+      ]
+    },
+    {
+      "name": "UAB",
+      "slug": "uab",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "UAB",
+        "Alabama Birmingham",
+        "Alabama at Birmingham"
+      ]
+    },
+    {
+      "name": "UCF",
+      "slug": "ucf",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "UCF",
+        "Central Florida",
+        "Central Florida Knights"
+      ]
+    },
+    {
+      "name": "UCLA",
+      "slug": "ucla",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "UCLA",
+        "University of California Los Angeles"
+      ]
+    },
+    {
+      "name": "UMass",
+      "slug": "umass",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "UMass",
+        "Massachusetts",
+        "University of Massachusetts"
+      ]
+    },
+    {
+      "name": "UNLV",
+      "slug": "unlv",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "UNLV"
+      ]
+    },
+    {
+      "name": "USC",
+      "slug": "usc",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "USC",
+        "Southern California",
+        "Southern Cal",
+        "USC Trojans"
+      ]
+    },
+    {
+      "name": "UTEP",
+      "slug": "utep",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "UTEP",
+        "Texas El Paso",
+        "UT El Paso"
+      ]
+    },
+    {
+      "name": "UTSA",
+      "slug": "utsa",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "UTSA",
+        "Texas San Antonio",
+        "UT San Antonio"
+      ]
+    },
+    {
+      "name": "Utah",
+      "slug": "utah",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "Utah"
+      ]
+    },
+    {
+      "name": "Utah State",
+      "slug": "utah-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Utah State"
+      ]
+    },
+    {
+      "name": "Vanderbilt",
+      "slug": "vanderbilt",
+      "conference": "SEC",
+      "pool": "Power",
+      "aliases": [
+        "Vanderbilt"
+      ]
+    },
+    {
+      "name": "Virginia",
+      "slug": "virginia",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Virginia"
+      ]
+    },
+    {
+      "name": "Virginia Tech",
+      "slug": "virginia-tech",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Virginia Tech",
+        "VT",
+        "VPI"
+      ]
+    },
+    {
+      "name": "Wake Forest",
+      "slug": "wake-forest",
+      "conference": "ACC",
+      "pool": "Power",
+      "aliases": [
+        "Wake Forest",
+        "WFU"
+      ]
+    },
+    {
+      "name": "Washington",
+      "slug": "washington",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Washington"
+      ]
+    },
+    {
+      "name": "Washington State",
+      "slug": "washington-state",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Washington State"
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "slug": "west-virginia",
+      "conference": "Big 12",
+      "pool": "Power",
+      "aliases": [
+        "West Virginia",
+        "WVU"
+      ]
+    },
+    {
+      "name": "Western Kentucky",
+      "slug": "western-kentucky",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Western Kentucky",
+        "WKU"
+      ]
+    },
+    {
+      "name": "Western Michigan",
+      "slug": "western-michigan",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Western Michigan",
+        "WMU"
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "slug": "wisconsin",
+      "conference": "Big Ten",
+      "pool": "Power",
+      "aliases": [
+        "Wisconsin"
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "conference": null,
+      "pool": "G6",
+      "aliases": [
+        "Wyoming"
+      ]
+    }
+  ],
+  "conferences": [
+    {
+      "name": "SEC",
+      "slug": "sec",
+      "aliases": [
+        "SEC",
+        "Southeastern Conference"
+      ],
+      "in_model": true
+    },
+    {
+      "name": "Big Ten",
+      "slug": "big-ten",
+      "aliases": [
+        "Big Ten",
+        "Big 10",
+        "B1G",
+        "Big Ten Conference"
+      ],
+      "in_model": true
+    },
+    {
+      "name": "Big 12",
+      "slug": "big-12",
+      "aliases": [
+        "Big 12",
+        "Big Twelve",
+        "Big 12 Conference"
+      ],
+      "in_model": true
+    },
+    {
+      "name": "ACC",
+      "slug": "acc",
+      "aliases": [
+        "ACC",
+        "Atlantic Coast Conference"
+      ],
+      "in_model": true
+    },
+    {
+      "name": "American",
+      "slug": "american",
+      "aliases": [
+        "American",
+        "AAC",
+        "American Athletic Conference"
+      ],
+      "in_model": false
+    },
+    {
+      "name": "Conference USA",
+      "slug": "conference-usa",
+      "aliases": [
+        "Conference USA",
+        "CUSA",
+        "C USA",
+        "C-USA"
+      ],
+      "in_model": false
+    },
+    {
+      "name": "MAC",
+      "slug": "mac",
+      "aliases": [
+        "MAC",
+        "Mid American",
+        "Mid American Conference"
+      ],
+      "in_model": false
+    },
+    {
+      "name": "Mountain West",
+      "slug": "mountain-west",
+      "aliases": [
+        "Mountain West",
+        "MW",
+        "MWC"
+      ],
+      "in_model": false
+    },
+    {
+      "name": "Pac-12",
+      "slug": "pac-12",
+      "aliases": [
+        "Pac 12",
+        "Pac-12",
+        "Pac12",
+        "Pacific 12"
+      ],
+      "in_model": false
+    },
+    {
+      "name": "Sun Belt",
+      "slug": "sun-belt",
+      "aliases": [
+        "Sun Belt",
+        "Sun Belt Conference",
+        "SBC"
+      ],
+      "in_model": false
+    }
+  ]
+}

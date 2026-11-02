@@ -1,0 +1,176 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---------- Design tokens ---------- */
+:root {
+  --bg: #f5f3ee;
+  --surface: #ffffff;
+  --surface-2: #eeebe3;
+  --surface-3: #e4e0d5;
+  --ink: #14171a;
+  --ink-2: #464b53;
+  --ink-3: #6f747c;
+  --line: #dcd7cb;
+  --line-strong: #c3bdae;
+  --accent: #c2410c;
+  --accent-soft: #fbe5d8;
+  --accent-ink: #ffffff;
+  --cat-conf: #1d5fb8;
+  --cat-conf-soft: #e1eaf6;
+  --cat-p4nc: #008f7c;
+  --cat-p4nc-soft: #dcf1ed;
+  --cat-g6: #a65f00;
+  --cat-g6-soft: #f6ead6;
+  --ok: #17703f;
+  --ok-soft: #dcf0e3;
+  --bad: #b42318;
+  --bad-soft: #fde4e1;
+  --field: #1e3a2c;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: #0c0e11;
+  --surface: #14171b;
+  --surface-2: #1b1f24;
+  --surface-3: #242930;
+  --ink: #edebe6;
+  --ink-2: #b7bac0;
+  --ink-3: #868b93;
+  --line: #2a2f36;
+  --line-strong: #3a4049;
+  --accent: #ff7b3d;
+  --accent-soft: #3a1d0f;
+  --accent-ink: #160a03;
+  --cat-conf: #4a86e8;
+  --cat-conf-soft: #142338;
+  --cat-p4nc: #12a08c;
+  --cat-p4nc-soft: #0f2a26;
+  --cat-g6: #bd7f1c;
+  --cat-g6-soft: #33240f;
+  --ok: #5fd08e;
+  --ok-soft: #10291b;
+  --bad: #ff8a80;
+  --bad-soft: #3a1512;
+  --field: #a8d5bb;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-conf: var(--cat-conf);
+  --color-conf-soft: var(--cat-conf-soft);
+  --color-p4nc: var(--cat-p4nc);
+  --color-p4nc-soft: var(--cat-p4nc-soft);
+  --color-g6: var(--cat-g6);
+  --color-g6-soft: var(--cat-g6-soft);
+  --color-ok: var(--ok);
+  --color-ok-soft: var(--ok-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-field: var(--field);
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "SF Pro Display", "Inter Tight", "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+.eyebrow {
+  font-size: 0.6875rem;
+  line-height: 1rem;
+  font-weight: 650;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* Subtle yard-line grid for hero surfaces */
+.yardlines {
+  background-image:
+    repeating-linear-gradient(90deg, color-mix(in oklab, var(--ink) 4%, transparent) 0 1px, transparent 1px 10%),
+    linear-gradient(180deg, transparent, transparent);
+}
+
+/* Diagonal hatch for BYE weeks */
+.hatch {
+  background-image: repeating-linear-gradient(135deg, color-mix(in oklab, var(--ink) 9%, transparent) 0 1px, transparent 1px 7px);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---------- Print ---------- */
+@media print {
+  :root,
+  .dark {
+    --bg: #fff;
+    --surface: #fff;
+    --surface-2: #f3f3f3;
+    --ink: #000;
+    --ink-2: #222;
+    --ink-3: #444;
+    --line: #bbb;
+    color-scheme: light;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  body {
+    font-size: 11px;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  .print-break-avoid {
+    break-inside: avoid;
+  }
+}
+
+.print-only {
+  display: none;
+}

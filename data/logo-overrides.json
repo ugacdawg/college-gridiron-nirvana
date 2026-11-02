@@ -1,0 +1,17 @@
+{
+  "teams": {
+    "BYU": "CFB Logos/BYU_Cougars_logo-300x300.png",
+    "FIU": "CFB Logos/FIU-Panthers-Logo-300x300.png",
+    "LSU": "CFB Logos/LSU_Tigers-300x300.png",
+    "SMU": "CFB Logos/SMU_Mustang_logo-300x300.png",
+    "TCU": "CFB Logos/TCU_Horned_Frogs_logo-300x300.png",
+    "UCF": "CFB Logos/UCF_Knights_logo-300x300.png",
+    "UTSA": "CFB Logos/Texas-SA-Roadrunners-logo-300x300.png",
+    "Texas": "CFB Logos/Texas_Longhorns_logo-300x300.png",
+    "Delaware": "file:assets/logos-local/delaware.png",
+    "Missouri State": "file:assets/logos-local/missouri-state.png"
+  },
+  "conferences": {
+    "Conference USA": "CFB Logos/Conference_USA_logo-300x300.png"
+  }
+}

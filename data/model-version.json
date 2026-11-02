@@ -1,0 +1,137 @@
+{
+  "version": "2.0",
+  "name": "Baseline v2.0",
+  "released": "2026-10-15",
+  "previous": {
+    "version": "1.0",
+    "archive": "data/archive/v1.0",
+    "description": "Original starter-kit model (G6 home-campus rule applied)."
+  },
+  "rules": {
+    "minGamesBetweenByes": 4,
+    "noConsecutiveNonconfRepeats": true,
+    "repeatExceptions": [
+      [
+        "Alabama",
+        "Ohio State",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "Auburn",
+        "Notre Dame",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "California",
+        "UCLA",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "Clemson",
+        "Notre Dame",
+        [
+          2027,
+          2028,
+          2029,
+          2030,
+          2031
+        ]
+      ],
+      [
+        "Florida State",
+        "Notre Dame",
+        [
+          2029,
+          2030
+        ]
+      ],
+      [
+        "Georgia",
+        "Ohio State",
+        [
+          2030,
+          2031
+        ]
+      ],
+      [
+        "North Carolina",
+        "Notre Dame",
+        [
+          2030,
+          2031
+        ]
+      ],
+      [
+        "Notre Dame",
+        "Purdue",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "Notre Dame",
+        "Stanford",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "Notre Dame",
+        "Texas",
+        [
+          2028,
+          2029
+        ]
+      ],
+      [
+        "Notre Dame",
+        "USC",
+        [
+          2030,
+          2031
+        ]
+      ],
+      [
+        "Notre Dame",
+        "Virginia Tech",
+        [
+          2027,
+          2028
+        ]
+      ],
+      [
+        "Tennessee",
+        "Washington",
+        [
+          2029,
+          2030
+        ]
+      ]
+    ],
+    "requiredGames": [
+      [
+        "Clemson",
+        "Notre Dame",
+        2030
+      ]
+    ]
+  },
+  "changes": [
+    "Byes: each team's two byes are separated by at least 4 games (no back-to-back byes).",
+    "No P4 non-conference opponent in consecutive seasons, except the six protected rivalries and published multi-year series.",
+    "Clemson–Notre Dame treated as annual: 2030 game added (Clemson at Notre Dame).",
+    "All published games kept; only model-generated non-conference games were re-paired."
+  ],
+  "producedBy": "python scripts/scenarios/no_repeat_nonconf.py --keep-nd-published --require \"Clemson|Notre Dame|2030\" (run against v1.0)"
+}

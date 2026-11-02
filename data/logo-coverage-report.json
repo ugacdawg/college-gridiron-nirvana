@@ -1,0 +1,597 @@
+{
+  "source": "https://github.com/Lou34964/FBS-Logo-Library",
+  "generatedAt": "2026-10-14T21:17:52.459Z",
+  "scannedAssets": 145,
+  "targetTeams": 134,
+  "targetConferences": 10,
+  "teams": {
+    "matched": [
+      {
+        "name": "Air Force",
+        "sourcePath": "CFB Logos/Air_Force_Falcons_logo-300x300.png"
+      },
+      {
+        "name": "Akron",
+        "sourcePath": "CFB Logos/Akron_Zips_logo-300x300.png"
+      },
+      {
+        "name": "Alabama",
+        "sourcePath": "CFB Logos/Alabama_Crimson_Tide_logo-300x300.png"
+      },
+      {
+        "name": "Appalachian State",
+        "sourcePath": "CFB Logos/Appalachian_State_Mountaineers_logo-300x300.png"
+      },
+      {
+        "name": "Arizona",
+        "sourcePath": "CFB Logos/Arizona_Wildcats_logo-300x300.png"
+      },
+      {
+        "name": "Arizona State",
+        "sourcePath": "CFB Logos/Arizona_State_Sun_Devils_logo-300x300.png"
+      },
+      {
+        "name": "Arkansas",
+        "sourcePath": "CFB Logos/Arkansas_Razorbacks_logo-300x300.png"
+      },
+      {
+        "name": "Arkansas State",
+        "sourcePath": "CFB Logos/Arkansas_State_Red_Wolves_logo-300x300.png"
+      },
+      {
+        "name": "Army",
+        "sourcePath": "CFB Logos/Army_West_Point_Black_Knights_logo-300x300.png"
+      },
+      {
+        "name": "Auburn",
+        "sourcePath": "CFB Logos/Auburn_Tigers_logo-300x300.png"
+      },
+      {
+        "name": "BYU",
+        "sourcePath": "CFB Logos/BYU_Cougars_logo-300x300.png"
+      },
+      {
+        "name": "Ball State",
+        "sourcePath": "CFB Logos/Ball_State_Cardinals_logo-300x300.png"
+      },
+      {
+        "name": "Baylor",
+        "sourcePath": "CFB Logos/Baylor_Bears_logo-300x300.png"
+      },
+      {
+        "name": "Boise State",
+        "sourcePath": "CFB Logos/Boise_State_Broncos_Logo-300x300.png"
+      },
+      {
+        "name": "Boston College",
+        "sourcePath": "CFB Logos/Boston_College_Eagles_logo-300x300.png"
+      },
+      {
+        "name": "Bowling Green",
+        "sourcePath": "CFB Logos/Bowling_Green_Falcons_logo-300x300.png"
+      },
+      {
+        "name": "Buffalo",
+        "sourcePath": "CFB Logos/Buffalo_Bulls_logo-300x300.png"
+      },
+      {
+        "name": "California",
+        "sourcePath": "CFB Logos/California_Golden_Bears_logo-300x300.png"
+      },
+      {
+        "name": "Central Michigan",
+        "sourcePath": "CFB Logos/Central_Michigan_Chippewas_logo-300x300.png"
+      },
+      {
+        "name": "Charlotte",
+        "sourcePath": "CFB Logos/Charlotte_49ers_logo-300x300.png"
+      },
+      {
+        "name": "Cincinnati",
+        "sourcePath": "CFB Logos/Cincinnati_Bearcats_logo-300x300.png"
+      },
+      {
+        "name": "Clemson",
+        "sourcePath": "CFB Logos/Clemson_Tigers_logo-300x300.png"
+      },
+      {
+        "name": "Coastal Carolina",
+        "sourcePath": "CFB Logos/Coastal_Carolina_Chanticleers_logo-300x300.png"
+      },
+      {
+        "name": "Colorado",
+        "sourcePath": "CFB Logos/Colorado_Buffaloes_logo-300x300.png"
+      },
+      {
+        "name": "Colorado State",
+        "sourcePath": "CFB Logos/Colorado_State_Rams_logo-300x300.png"
+      },
+      {
+        "name": "Delaware",
+        "sourcePath": "file:assets/logos-local/delaware.png"
+      },
+      {
+        "name": "Duke",
+        "sourcePath": "CFB Logos/Duke_Blue_Devils_logo-300x300.png"
+      },
+      {
+        "name": "East Carolina",
+        "sourcePath": "CFB Logos/East_Carolina_Pirates_logo-300x300.png"
+      },
+      {
+        "name": "Eastern Michigan",
+        "sourcePath": "CFB Logos/Eastern_Michigan_Eagles_logo-300x300.png"
+      },
+      {
+        "name": "FIU",
+        "sourcePath": "CFB Logos/FIU-Panthers-Logo-300x300.png"
+      },
+      {
+        "name": "Florida",
+        "sourcePath": "CFB Logos/Florida_Gators_logo-300x300.png"
+      },
+      {
+        "name": "Florida Atlantic",
+        "sourcePath": "CFB Logos/Florida_Atlantic_Owls_logo-300x300.png"
+      },
+      {
+        "name": "Florida State",
+        "sourcePath": "CFB Logos/Florida_State_Seminoles_logo-300x300.png"
+      },
+      {
+        "name": "Fresno State",
+        "sourcePath": "CFB Logos/Fresno_State_Bulldogs_logo-300x300.png"
+      },
+      {
+        "name": "Georgia",
+        "sourcePath": "CFB Logos/Georgia_Bulldogs_logo-300x300.png"
+      },
+      {
+        "name": "Georgia Southern",
+        "sourcePath": "CFB Logos/Georgia_Southern_Eagles_logo-300x300.png"
+      },
+      {
+        "name": "Georgia State",
+        "sourcePath": "CFB Logos/Georgia_State_Panthers_logo-300x300.png"
+      },
+      {
+        "name": "Georgia Tech",
+        "sourcePath": "CFB Logos/Georgia_Tech_Yellow_Jackets_logo-300x300.png"
+      },
+      {
+        "name": "Houston",
+        "sourcePath": "CFB Logos/Houston_Cougars_logo-300x300.png"
+      },
+      {
+        "name": "Illinois",
+        "sourcePath": "CFB Logos/Illinois_Fighting_Illini_logo-300x300.png"
+      },
+      {
+        "name": "Indiana",
+        "sourcePath": "CFB Logos/Indiana_Hoosiers_logo-300x300.png"
+      },
+      {
+        "name": "Iowa",
+        "sourcePath": "CFB Logos/Iowa_Hawkeyes_logo-300x300.png"
+      },
+      {
+        "name": "Iowa State",
+        "sourcePath": "CFB Logos/Iowa_State_Cyclones_logo-300x300.png"
+      },
+      {
+        "name": "Jacksonville State",
+        "sourcePath": "CFB Logos/Jacksonville-State-Gamecocks-logo-300x300.png"
+      },
+      {
+        "name": "James Madison",
+        "sourcePath": "CFB Logos/James_Madison_Dukes_logo-300x300.png"
+      },
+      {
+        "name": "Kansas",
+        "sourcePath": "CFB Logos/Kansas_Jayhawks_logo-300x300.png"
+      },
+      {
+        "name": "Kansas State",
+        "sourcePath": "CFB Logos/Kansas_State_Wildcats_logo-300x300.png"
+      },
+      {
+        "name": "Kennesaw State",
+        "sourcePath": "CFB Logos/Kennesaw-State-Owls-logo-300x300.png"
+      },
+      {
+        "name": "Kent State",
+        "sourcePath": "CFB Logos/Kent_State_Golden_Flashes-300x300.png"
+      },
+      {
+        "name": "Kentucky",
+        "sourcePath": "CFB Logos/Kentucky_Wildcats_logo-300x300.png"
+      },
+      {
+        "name": "LSU",
+        "sourcePath": "CFB Logos/LSU_Tigers-300x300.png"
+      },
+      {
+        "name": "Liberty",
+        "sourcePath": "CFB Logos/Liberty_Flames_logo-300x300.png"
+      },
+      {
+        "name": "Louisiana",
+        "sourcePath": "CFB Logos/Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png"
+      },
+      {
+        "name": "Louisiana Tech",
+        "sourcePath": "CFB Logos/Louisiana_Tech_Bulldogs_logo-300x300.png"
+      },
+      {
+        "name": "Louisiana-Monroe",
+        "sourcePath": "CFB Logos/Louisiana-Monroe_Warhawks_logo-300x300.png"
+      },
+      {
+        "name": "Louisville",
+        "sourcePath": "CFB Logos/Louisville_Cardinals_logo-300x300.png"
+      },
+      {
+        "name": "Marshall",
+        "sourcePath": "CFB Logos/Marshall_Thundering_Herd_logo-300x300.png"
+      },
+      {
+        "name": "Maryland",
+        "sourcePath": "CFB Logos/Maryland_Terrapins_logo-300x300.png"
+      },
+      {
+        "name": "Memphis",
+        "sourcePath": "CFB Logos/Memphis_Tigers_logo-300x300.png"
+      },
+      {
+        "name": "Miami",
+        "sourcePath": "CFB Logos/Miami_Hurricanes_logo-300x300.png"
+      },
+      {
+        "name": "Miami (OH)",
+        "sourcePath": "CFB Logos/Miami_OH_Redhawks_logo-300x300.png"
+      },
+      {
+        "name": "Michigan",
+        "sourcePath": "CFB Logos/Michigan_Wolverines_logo-300x300.png"
+      },
+      {
+        "name": "Michigan State",
+        "sourcePath": "CFB Logos/Michigan_State_Spartans_logo-300x300.png"
+      },
+      {
+        "name": "Middle Tennessee",
+        "sourcePath": "CFB Logos/Middle-Tennessee-Blue-Raiders-logo-300x300.png"
+      },
+      {
+        "name": "Minnesota",
+        "sourcePath": "CFB Logos/Minnesota_Golden_Gophers_logo-300x300.png"
+      },
+      {
+        "name": "Mississippi State",
+        "sourcePath": "CFB Logos/Mississippi_State_Bulldogs_logo-300x300.png"
+      },
+      {
+        "name": "Missouri",
+        "sourcePath": "CFB Logos/Missouri_Tigers_logo-300x300.png"
+      },
+      {
+        "name": "Missouri State",
+        "sourcePath": "file:assets/logos-local/missouri-state.png"
+      },
+      {
+        "name": "NC State",
+        "sourcePath": "CFB Logos/North_Carolina_State_Wolfpack_logo-300x300.png"
+      },
+      {
+        "name": "Navy",
+        "sourcePath": "CFB Logos/Navy_Midshipmen_logo-300x300.png"
+      },
+      {
+        "name": "Nebraska",
+        "sourcePath": "CFB Logos/Nebraska_Cornhuskers_logo-300x300.png"
+      },
+      {
+        "name": "Nevada",
+        "sourcePath": "CFB Logos/Nevada_Wolf_Pack_logo-300x300.png"
+      },
+      {
+        "name": "New Mexico",
+        "sourcePath": "CFB Logos/New_Mexico_Lobos_logo-300x300.png"
+      },
+      {
+        "name": "New Mexico State",
+        "sourcePath": "CFB Logos/New_Mexico_State_Aggies_logo-300x300.png"
+      },
+      {
+        "name": "North Carolina",
+        "sourcePath": "CFB Logos/North_Carolina_Tar_Heels_logo-300x300.png"
+      },
+      {
+        "name": "North Texas",
+        "sourcePath": "CFB Logos/North_Texas_Mean_Green_logo-300x300.png"
+      },
+      {
+        "name": "Northern Illinois",
+        "sourcePath": "CFB Logos/Northern_Illinois_Huskies-300x300.png"
+      },
+      {
+        "name": "Northwestern",
+        "sourcePath": "CFB Logos/Northwestern_Wildcats_logo-300x300.png"
+      },
+      {
+        "name": "Notre Dame",
+        "sourcePath": "CFB Logos/Notre_Dame_Fighting_Irish_logo-300x300.png"
+      },
+      {
+        "name": "Ohio",
+        "sourcePath": "CFB Logos/Ohio_Bobcats_logo-300x300.png"
+      },
+      {
+        "name": "Ohio State",
+        "sourcePath": "CFB Logos/Ohio_State_Buckeyes_logo-300x300.png"
+      },
+      {
+        "name": "Oklahoma",
+        "sourcePath": "CFB Logos/Oklahoma_Sooners_logo-300x300.png"
+      },
+      {
+        "name": "Oklahoma State",
+        "sourcePath": "CFB Logos/Oklahoma_State_Cowboys_logo-300x300.png"
+      },
+      {
+        "name": "Old Dominion",
+        "sourcePath": "CFB Logos/Old_Dominion_Monarchs_logo-300x300.png"
+      },
+      {
+        "name": "Ole Miss",
+        "sourcePath": "CFB Logos/Ole_Miss_Rebels_logo-300x300.png"
+      },
+      {
+        "name": "Oregon",
+        "sourcePath": "CFB Logos/Oregon_Ducks_logo-300x300.png"
+      },
+      {
+        "name": "Oregon State",
+        "sourcePath": "CFB Logos/Oregon_State_Beavers_logo-300x300.png"
+      },
+      {
+        "name": "Penn State",
+        "sourcePath": "CFB Logos/Penn_State_Nittany_Lions_logo-300x300.png"
+      },
+      {
+        "name": "Pitt",
+        "sourcePath": "CFB Logos/Pitt_Panthers_logo-300x300.png"
+      },
+      {
+        "name": "Purdue",
+        "sourcePath": "CFB Logos/Purdue_Boilermakers_logo-300x300.png"
+      },
+      {
+        "name": "Rice",
+        "sourcePath": "CFB Logos/Rice_Owls_logo-300x300.png"
+      },
+      {
+        "name": "Rutgers",
+        "sourcePath": "CFB Logos/Rutgers_Scarlet_Knights_logo-300x300.png"
+      },
+      {
+        "name": "SMU",
+        "sourcePath": "CFB Logos/SMU_Mustang_logo-300x300.png"
+      },
+      {
+        "name": "Sam Houston",
+        "sourcePath": "CFB Logos/Sam-Houston-State-Bearkats-logo-300x300.png"
+      },
+      {
+        "name": "San Diego State",
+        "sourcePath": "CFB Logos/San_Diego_State_Aztecs_logo-300x300.png"
+      },
+      {
+        "name": "San Jose State",
+        "sourcePath": "CFB Logos/San_Jose_State_Spartans_logo-300x300.png"
+      },
+      {
+        "name": "South Alabama",
+        "sourcePath": "CFB Logos/South_Alabama_Jaguars_logo-300x300.png"
+      },
+      {
+        "name": "South Carolina",
+        "sourcePath": "CFB Logos/South_Carolina_Gamecocks_logo-300x300.png"
+      },
+      {
+        "name": "South Florida",
+        "sourcePath": "CFB Logos/South_Florida_Bulls_logo-300x300.png"
+      },
+      {
+        "name": "Southern Miss",
+        "sourcePath": "CFB Logos/Southern_Miss_Golden_Eagles_logo-300x300.png"
+      },
+      {
+        "name": "Stanford",
+        "sourcePath": "CFB Logos/Stanford_Cardinal_logo-300x300.png"
+      },
+      {
+        "name": "Syracuse",
+        "sourcePath": "CFB Logos/Syracuse_Orange_logo-300x300.png"
+      },
+      {
+        "name": "TCU",
+        "sourcePath": "CFB Logos/TCU_Horned_Frogs_logo-300x300.png"
+      },
+      {
+        "name": "Temple",
+        "sourcePath": "CFB Logos/Temple_Owls_logo-300x300.png"
+      },
+      {
+        "name": "Tennessee",
+        "sourcePath": "CFB Logos/Tennessee_Volunteers_logo-300x300.png"
+      },
+      {
+        "name": "Texas",
+        "sourcePath": "CFB Logos/Texas_Longhorns_logo-300x300.png"
+      },
+      {
+        "name": "Texas A&M",
+        "sourcePath": "CFB Logos/Texas_AM_University_logo-300x300.png"
+      },
+      {
+        "name": "Texas State",
+        "sourcePath": "CFB Logos/Texas_State_Bobcats_logo-300x300.png"
+      },
+      {
+        "name": "Texas Tech",
+        "sourcePath": "CFB Logos/Texas_Tech_Red_Raiders_logo-300x300.png"
+      },
+      {
+        "name": "Toledo",
+        "sourcePath": "CFB Logos/Toledo_Rockets_logo-300x300.png"
+      },
+      {
+        "name": "Troy",
+        "sourcePath": "CFB Logos/Troy_Trojans_logo-300x300.png"
+      },
+      {
+        "name": "Tulane",
+        "sourcePath": "CFB Logos/Tulane_Green_Wave_logo-300x300.png"
+      },
+      {
+        "name": "Tulsa",
+        "sourcePath": "CFB Logos/Tulsa_Golden_Hurricane_logo-300x300.png"
+      },
+      {
+        "name": "UAB",
+        "sourcePath": "CFB Logos/Alabama-Birmingham-Blazers-logo-300x300.png"
+      },
+      {
+        "name": "UCF",
+        "sourcePath": "CFB Logos/UCF_Knights_logo-300x300.png"
+      },
+      {
+        "name": "UCLA",
+        "sourcePath": "CFB Logos/UCLA_Bruins-300x300.png"
+      },
+      {
+        "name": "UMass",
+        "sourcePath": "CFB Logos/UMass_Amherst_Minutemen_logo-300x300.png"
+      },
+      {
+        "name": "UNLV",
+        "sourcePath": "CFB Logos/UNLV_Rebels_logo-300x300.png"
+      },
+      {
+        "name": "USC",
+        "sourcePath": "CFB Logos/USC_Trojans_logo-300x300.png"
+      },
+      {
+        "name": "UTEP",
+        "sourcePath": "CFB Logos/UTEP-Miners-logo-300x300.png"
+      },
+      {
+        "name": "UTSA",
+        "sourcePath": "CFB Logos/Texas-SA-Roadrunners-logo-300x300.png"
+      },
+      {
+        "name": "Utah",
+        "sourcePath": "CFB Logos/Utah_Utes_logo-300x300.png"
+      },
+      {
+        "name": "Utah State",
+        "sourcePath": "CFB Logos/Utah_State_Aggies_logo-300x300.png"
+      },
+      {
+        "name": "Vanderbilt",
+        "sourcePath": "CFB Logos/Vanderbilt_Commodores_logo-300x300.png"
+      },
+      {
+        "name": "Virginia",
+        "sourcePath": "CFB Logos/Virginia_Cavaliers_logo-300x300.png"
+      },
+      {
+        "name": "Virginia Tech",
+        "sourcePath": "CFB Logos/Virginia_Tech_Hokies_logo-300x300.png"
+      },
+      {
+        "name": "Wake Forest",
+        "sourcePath": "CFB Logos/Wake_Forest_Demon_Deacons_logo-300x300.png"
+      },
+      {
+        "name": "Washington",
+        "sourcePath": "CFB Logos/Washington_Huskies_logo-300x300.png"
+      },
+      {
+        "name": "Washington State",
+        "sourcePath": "CFB Logos/Washington_State_Cougars_logo-300x300.png"
+      },
+      {
+        "name": "West Virginia",
+        "sourcePath": "CFB Logos/West_Virginia_Mountaineers_logo-300x300.png"
+      },
+      {
+        "name": "Western Kentucky",
+        "sourcePath": "CFB Logos/Western_Kentucky_Hilltoppers_logo-300x300.png"
+      },
+      {
+        "name": "Western Michigan",
+        "sourcePath": "CFB Logos/Western_Michigan_Broncos_logo-300x300.png"
+      },
+      {
+        "name": "Wisconsin",
+        "sourcePath": "CFB Logos/Wisconsin_Badgers_logo-300x300.png"
+      },
+      {
+        "name": "Wyoming",
+        "sourcePath": "CFB Logos/Wyoming_Cowboys_logo-300x300.png"
+      }
+    ],
+    "missing": [],
+    "ambiguous": [],
+    "errors": []
+  },
+  "conferences": {
+    "matched": [
+      {
+        "name": "SEC",
+        "sourcePath": "CFB Logos/Southeastern_Conference_logo-300x300.png"
+      },
+      {
+        "name": "Big Ten",
+        "sourcePath": "CFB Logos/Big_Ten_Conference_logo-300x300.png"
+      },
+      {
+        "name": "Big 12",
+        "sourcePath": "CFB Logos/Big_12_Conference_logo-300x300.png"
+      },
+      {
+        "name": "ACC",
+        "sourcePath": "CFB Logos/Atlantic_Coast_Conference_ACC_logo-300x300.png"
+      },
+      {
+        "name": "American",
+        "sourcePath": "CFB Logos/American_Athletic_Conference_logo-300x300.png"
+      },
+      {
+        "name": "Conference USA",
+        "sourcePath": "CFB Logos/Conference_USA_logo-300x300.png"
+      },
+      {
+        "name": "MAC",
+        "sourcePath": "CFB Logos/Mid-American_Conference_logo-300x300.png"
+      },
+      {
+        "name": "Mountain West",
+        "sourcePath": "CFB Logos/Mountain_West_Conference_logo-300x300.png"
+      },
+      {
+        "name": "Pac-12",
+        "sourcePath": "CFB Logos/Pac-12_logo-300x300.png"
+      },
+      {
+        "name": "Sun Belt",
+        "sourcePath": "CFB Logos/Sun_Belt_Conference_2020_logo-300x300.png"
+      }
+    ],
+    "missing": [],
+    "ambiguous": [],
+    "errors": []
+  }
+}

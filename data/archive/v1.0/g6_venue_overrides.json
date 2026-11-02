@@ -1,0 +1,1566 @@
+[
+  {
+    "Game ID": "2027-1509",
+    "Year": 2027,
+    "Week": 1,
+    "Power Team": "Florida",
+    "G6 Opponent": "South Florida",
+    "Prior": {
+      "Home": "South Florida",
+      "Away": "Florida",
+      "Venue": "South Florida campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Florida",
+      "Away": "South Florida",
+      "Venue": "Florida campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1514",
+    "Year": 2027,
+    "Week": 3,
+    "Power Team": "Missouri",
+    "G6 Opponent": "Missouri State",
+    "Prior": {
+      "Home": "Missouri State",
+      "Away": "Missouri",
+      "Venue": "Missouri State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Missouri",
+      "Away": "Missouri State",
+      "Venue": "Missouri campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1529",
+    "Year": 2027,
+    "Week": 0,
+    "Power Team": "Nebraska",
+    "G6 Opponent": "Miami (OH)",
+    "Prior": {
+      "Home": "Nebraska",
+      "Away": "Miami (OH)",
+      "Venue": "Arrowhead Stadium, Kansas City, MO",
+      "Site type": "Neutral",
+      "Status": "Published",
+      "Source URL": "https://fbschedules.com/college-football-neutral-site-games/"
+    },
+    "New": {
+      "Home": "Nebraska",
+      "Away": "Miami (OH)",
+      "Venue": "Nebraska campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1534",
+    "Year": 2027,
+    "Week": 2,
+    "Power Team": "Purdue",
+    "G6 Opponent": "Ohio",
+    "Prior": {
+      "Home": "Ohio",
+      "Away": "Purdue",
+      "Venue": "Ohio campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Purdue",
+      "Away": "Ohio",
+      "Venue": "Purdue campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1538",
+    "Year": 2027,
+    "Week": 3,
+    "Power Team": "Washington",
+    "G6 Opponent": "Washington State",
+    "Prior": {
+      "Home": "Washington State",
+      "Away": "Washington",
+      "Venue": "Washington State campus",
+      "Site type": "Campus",
+      "Status": "Published",
+      "Source URL": "https://gohuskies.com/sports/2013/9/5/209251613/recent"
+    },
+    "New": {
+      "Home": "Washington",
+      "Away": "Washington State",
+      "Venue": "Washington campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1539",
+    "Year": 2027,
+    "Week": 2,
+    "Power Team": "Wisconsin",
+    "G6 Opponent": "Akron",
+    "Prior": {
+      "Home": "Akron",
+      "Away": "Wisconsin",
+      "Venue": "Akron campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Wisconsin",
+      "Away": "Akron",
+      "Venue": "Wisconsin campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1544",
+    "Year": 2027,
+    "Week": 0,
+    "Power Team": "Cincinnati",
+    "G6 Opponent": "Toledo",
+    "Prior": {
+      "Home": "Toledo",
+      "Away": "Cincinnati",
+      "Venue": "Toledo campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Cincinnati",
+      "Away": "Toledo",
+      "Venue": "Cincinnati campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1549",
+    "Year": 2027,
+    "Week": 0,
+    "Power Team": "Kansas State",
+    "G6 Opponent": "Wyoming",
+    "Prior": {
+      "Home": "Wyoming",
+      "Away": "Kansas State",
+      "Venue": "Wyoming campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Kansas State",
+      "Away": "Wyoming",
+      "Venue": "Kansas State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1554",
+    "Year": 2027,
+    "Week": 0,
+    "Power Team": "Utah",
+    "G6 Opponent": "Utah State",
+    "Prior": {
+      "Home": "Utah State",
+      "Away": "Utah",
+      "Venue": "Utah State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Utah",
+      "Away": "Utah State",
+      "Venue": "Utah campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1559",
+    "Year": 2027,
+    "Week": 2,
+    "Power Team": "Duke",
+    "G6 Opponent": "Appalachian State",
+    "Prior": {
+      "Home": "Appalachian State",
+      "Away": "Duke",
+      "Venue": "Appalachian State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Duke",
+      "Away": "Appalachian State",
+      "Venue": "Duke campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1564",
+    "Year": 2027,
+    "Week": 4,
+    "Power Team": "North Carolina",
+    "G6 Opponent": "Troy",
+    "Prior": {
+      "Home": "Troy",
+      "Away": "North Carolina",
+      "Venue": "Troy campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "North Carolina",
+      "Away": "Troy",
+      "Venue": "North Carolina campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2027-1569",
+    "Year": 2027,
+    "Week": 2,
+    "Power Team": "Syracuse",
+    "G6 Opponent": "Army",
+    "Prior": {
+      "Home": "Army",
+      "Away": "Syracuse",
+      "Venue": "Army campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Syracuse",
+      "Away": "Army",
+      "Venue": "Syracuse campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1576",
+    "Year": 2028,
+    "Week": 3,
+    "Power Team": "Auburn",
+    "G6 Opponent": "Troy",
+    "Prior": {
+      "Home": "Troy",
+      "Away": "Auburn",
+      "Venue": "Troy campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Auburn",
+      "Away": "Troy",
+      "Venue": "Auburn campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1581",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Mississippi State",
+    "G6 Opponent": "Tulane",
+    "Prior": {
+      "Home": "Tulane",
+      "Away": "Mississippi State",
+      "Venue": "Tulane campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Mississippi State",
+      "Away": "Tulane",
+      "Venue": "Mississippi State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1591",
+    "Year": 2028,
+    "Week": 3,
+    "Power Team": "Indiana",
+    "G6 Opponent": "Toledo",
+    "Prior": {
+      "Home": "Toledo",
+      "Away": "Indiana",
+      "Venue": "Toledo campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Indiana",
+      "Away": "Toledo",
+      "Venue": "Indiana campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1596",
+    "Year": 2028,
+    "Week": 1,
+    "Power Team": "Minnesota",
+    "G6 Opponent": "Ball State",
+    "Prior": {
+      "Home": "Ball State",
+      "Away": "Minnesota",
+      "Venue": "Ball State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Minnesota",
+      "Away": "Ball State",
+      "Venue": "Minnesota campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1600",
+    "Year": 2028,
+    "Week": 3,
+    "Power Team": "Oregon",
+    "G6 Opponent": "Oregon State",
+    "Prior": {
+      "Home": "Oregon State",
+      "Away": "Oregon",
+      "Venue": "Oregon State campus",
+      "Site type": "Campus",
+      "Status": "Published",
+      "Source URL": "https://goducks.com/news/2026/8/7/football-oregon-adds-2028-game-against-sacramento-state"
+    },
+    "New": {
+      "Home": "Oregon",
+      "Away": "Oregon State",
+      "Venue": "Oregon campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1601",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Penn State",
+    "G6 Opponent": "Temple",
+    "Prior": {
+      "Home": "Temple",
+      "Away": "Penn State",
+      "Venue": "Temple campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Penn State",
+      "Away": "Temple",
+      "Venue": "Penn State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1611",
+    "Year": 2028,
+    "Week": 1,
+    "Power Team": "BYU",
+    "G6 Opponent": "Oregon State",
+    "Prior": {
+      "Home": "BYU",
+      "Away": "Oregon State",
+      "Venue": "Allegiant Stadium, Las Vegas, NV",
+      "Site type": "Neutral",
+      "Status": "Published",
+      "Source URL": "https://fbschedules.com/college-football-neutral-site-games/"
+    },
+    "New": {
+      "Home": "BYU",
+      "Away": "Oregon State",
+      "Venue": "BYU campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1616",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Kansas",
+    "G6 Opponent": "Louisiana-Monroe",
+    "Prior": {
+      "Home": "Louisiana-Monroe",
+      "Away": "Kansas",
+      "Venue": "Louisiana-Monroe campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Kansas",
+      "Away": "Louisiana-Monroe",
+      "Venue": "Kansas campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1621",
+    "Year": 2028,
+    "Week": 3,
+    "Power Team": "UCF",
+    "G6 Opponent": "South Florida",
+    "Prior": {
+      "Home": "South Florida",
+      "Away": "UCF",
+      "Venue": "South Florida campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "UCF",
+      "Away": "South Florida",
+      "Venue": "UCF campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1626",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Clemson",
+    "G6 Opponent": "Coastal Carolina",
+    "Prior": {
+      "Home": "Coastal Carolina",
+      "Away": "Clemson",
+      "Venue": "Coastal Carolina campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Clemson",
+      "Away": "Coastal Carolina",
+      "Venue": "Clemson campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1631",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Miami",
+    "G6 Opponent": "FIU",
+    "Prior": {
+      "Home": "FIU",
+      "Away": "Miami",
+      "Venue": "FIU campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Miami",
+      "Away": "FIU",
+      "Venue": "Miami campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2028-1636",
+    "Year": 2028,
+    "Week": 2,
+    "Power Team": "Stanford",
+    "G6 Opponent": "Nevada",
+    "Prior": {
+      "Home": "Nevada",
+      "Away": "Stanford",
+      "Venue": "Nevada campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Stanford",
+      "Away": "Nevada",
+      "Venue": "Stanford campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1643",
+    "Year": 2029,
+    "Week": 1,
+    "Power Team": "Arkansas",
+    "G6 Opponent": "North Texas",
+    "Prior": {
+      "Home": "North Texas",
+      "Away": "Arkansas",
+      "Venue": "North Texas campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Arkansas",
+      "Away": "North Texas",
+      "Venue": "Arkansas campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1648",
+    "Year": 2029,
+    "Week": 3,
+    "Power Team": "LSU",
+    "G6 Opponent": "Tulane",
+    "Prior": {
+      "Home": "Tulane",
+      "Away": "LSU",
+      "Venue": "Tulane campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "LSU",
+      "Away": "Tulane",
+      "Venue": "LSU campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1651",
+    "Year": 2029,
+    "Week": 0,
+    "Power Team": "Ole Miss",
+    "G6 Opponent": "South Alabama",
+    "Prior": {
+      "Home": "South Alabama",
+      "Away": "Ole Miss",
+      "Venue": "South Alabama campus",
+      "Site type": "Campus",
+      "Status": "Published",
+      "Source URL": "https://olemisssports.com/news/2020/5/26/football-announces-future-home-and-home-series"
+    },
+    "New": {
+      "Home": "Ole Miss",
+      "Away": "South Alabama",
+      "Venue": "Ole Miss campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1653",
+    "Year": 2029,
+    "Week": 1,
+    "Power Team": "South Carolina",
+    "G6 Opponent": "South Florida",
+    "Prior": {
+      "Home": "South Florida",
+      "Away": "South Carolina",
+      "Venue": "South Florida campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "South Carolina",
+      "Away": "South Florida",
+      "Venue": "South Carolina campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1658",
+    "Year": 2029,
+    "Week": 3,
+    "Power Team": "Illinois",
+    "G6 Opponent": "Central Michigan",
+    "Prior": {
+      "Home": "Central Michigan",
+      "Away": "Illinois",
+      "Venue": "Central Michigan campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Illinois",
+      "Away": "Central Michigan",
+      "Venue": "Illinois campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1663",
+    "Year": 2029,
+    "Week": 3,
+    "Power Team": "Michigan State",
+    "G6 Opponent": "Eastern Michigan",
+    "Prior": {
+      "Home": "Eastern Michigan",
+      "Away": "Michigan State",
+      "Venue": "Eastern Michigan campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Michigan State",
+      "Away": "Eastern Michigan",
+      "Venue": "Michigan State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1668",
+    "Year": 2029,
+    "Week": 0,
+    "Power Team": "Oregon",
+    "G6 Opponent": "San Jose State",
+    "Prior": {
+      "Home": "San Jose State",
+      "Away": "Oregon",
+      "Venue": "San Jose State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Oregon",
+      "Away": "San Jose State",
+      "Venue": "Oregon campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1673",
+    "Year": 2029,
+    "Week": 8,
+    "Power Team": "USC",
+    "G6 Opponent": "San Diego State",
+    "Prior": {
+      "Home": "San Diego State",
+      "Away": "USC",
+      "Venue": "San Diego State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "USC",
+      "Away": "San Diego State",
+      "Venue": "USC campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1678",
+    "Year": 2029,
+    "Week": 3,
+    "Power Team": "Baylor",
+    "G6 Opponent": "Sam Houston",
+    "Prior": {
+      "Home": "Sam Houston",
+      "Away": "Baylor",
+      "Venue": "Sam Houston campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Baylor",
+      "Away": "Sam Houston",
+      "Venue": "Baylor campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1683",
+    "Year": 2029,
+    "Week": 3,
+    "Power Team": "Iowa State",
+    "G6 Opponent": "Missouri State",
+    "Prior": {
+      "Home": "Missouri State",
+      "Away": "Iowa State",
+      "Venue": "Missouri State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Iowa State",
+      "Away": "Missouri State",
+      "Venue": "Iowa State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1688",
+    "Year": 2029,
+    "Week": 2,
+    "Power Team": "Texas Tech",
+    "G6 Opponent": "UTEP",
+    "Prior": {
+      "Home": "UTEP",
+      "Away": "Texas Tech",
+      "Venue": "UTEP campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Texas Tech",
+      "Away": "UTEP",
+      "Venue": "Texas Tech campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1693",
+    "Year": 2029,
+    "Week": 2,
+    "Power Team": "California",
+    "G6 Opponent": "Nevada",
+    "Prior": {
+      "Home": "Nevada",
+      "Away": "California",
+      "Venue": "Nevada campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "California",
+      "Away": "Nevada",
+      "Venue": "California campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1698",
+    "Year": 2029,
+    "Week": 1,
+    "Power Team": "Louisville",
+    "G6 Opponent": "UTSA",
+    "Prior": {
+      "Home": "UTSA",
+      "Away": "Louisville",
+      "Venue": "UTSA campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Louisville",
+      "Away": "UTSA",
+      "Venue": "Louisville campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1703",
+    "Year": 2029,
+    "Week": 0,
+    "Power Team": "SMU",
+    "G6 Opponent": "North Texas",
+    "Prior": {
+      "Home": "North Texas",
+      "Away": "SMU",
+      "Venue": "North Texas campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "SMU",
+      "Away": "North Texas",
+      "Venue": "SMU campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2029-1708",
+    "Year": 2029,
+    "Week": 1,
+    "Power Team": "Wake Forest",
+    "G6 Opponent": "Georgia State",
+    "Prior": {
+      "Home": "Georgia State",
+      "Away": "Wake Forest",
+      "Venue": "Georgia State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Wake Forest",
+      "Away": "Georgia State",
+      "Venue": "Wake Forest campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1710",
+    "Year": 2030,
+    "Week": 2,
+    "Power Team": "Alabama",
+    "G6 Opponent": "UAB",
+    "Prior": {
+      "Home": "UAB",
+      "Away": "Alabama",
+      "Venue": "UAB campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Alabama",
+      "Away": "UAB",
+      "Venue": "Alabama campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1715",
+    "Year": 2030,
+    "Week": 0,
+    "Power Team": "Kentucky",
+    "G6 Opponent": "Sam Houston",
+    "Prior": {
+      "Home": "Sam Houston",
+      "Away": "Kentucky",
+      "Venue": "Sam Houston campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Kentucky",
+      "Away": "Sam Houston",
+      "Venue": "Kentucky campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1719",
+    "Year": 2030,
+    "Week": 0,
+    "Power Team": "Ole Miss",
+    "G6 Opponent": "Oregon State",
+    "Prior": {
+      "Home": "Oregon State",
+      "Away": "Ole Miss",
+      "Venue": "Oregon State campus",
+      "Site type": "Campus",
+      "Status": "Published",
+      "Source URL": "https://olemisssports.com/news/2019/12/11/football-announces-future-home-and-home-series"
+    },
+    "New": {
+      "Home": "Ole Miss",
+      "Away": "Oregon State",
+      "Venue": "Ole Miss campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1720",
+    "Year": 2030,
+    "Week": 3,
+    "Power Team": "Oklahoma",
+    "G6 Opponent": "Air Force",
+    "Prior": {
+      "Home": "Air Force",
+      "Away": "Oklahoma",
+      "Venue": "Air Force campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Oklahoma",
+      "Away": "Air Force",
+      "Venue": "Oklahoma campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1725",
+    "Year": 2030,
+    "Week": 5,
+    "Power Team": "Vanderbilt",
+    "G6 Opponent": "Louisiana Tech",
+    "Prior": {
+      "Home": "Louisiana Tech",
+      "Away": "Vanderbilt",
+      "Venue": "Louisiana Tech campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Vanderbilt",
+      "Away": "Louisiana Tech",
+      "Venue": "Vanderbilt campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1730",
+    "Year": 2030,
+    "Week": 1,
+    "Power Team": "Michigan",
+    "G6 Opponent": "Eastern Michigan",
+    "Prior": {
+      "Home": "Eastern Michigan",
+      "Away": "Michigan",
+      "Venue": "Eastern Michigan campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Michigan",
+      "Away": "Eastern Michigan",
+      "Venue": "Michigan campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1735",
+    "Year": 2030,
+    "Week": 4,
+    "Power Team": "Ohio State",
+    "G6 Opponent": "Miami (OH)",
+    "Prior": {
+      "Home": "Miami (OH)",
+      "Away": "Ohio State",
+      "Venue": "Miami (OH) campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Ohio State",
+      "Away": "Miami (OH)",
+      "Venue": "Ohio State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1740",
+    "Year": 2030,
+    "Week": 1,
+    "Power Team": "UCLA",
+    "G6 Opponent": "Washington State",
+    "Prior": {
+      "Home": "Washington State",
+      "Away": "UCLA",
+      "Venue": "Washington State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "UCLA",
+      "Away": "Washington State",
+      "Venue": "UCLA campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1745",
+    "Year": 2030,
+    "Week": 2,
+    "Power Team": "Arizona State",
+    "G6 Opponent": "Colorado State",
+    "Prior": {
+      "Home": "Colorado State",
+      "Away": "Arizona State",
+      "Venue": "Colorado State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Arizona State",
+      "Away": "Colorado State",
+      "Venue": "Arizona State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1747",
+    "Year": 2030,
+    "Week": 3,
+    "Power Team": "BYU",
+    "G6 Opponent": "Northern Illinois",
+    "Prior": {
+      "Home": "Northern Illinois",
+      "Away": "BYU",
+      "Venue": "Northern Illinois campus",
+      "Site type": "Campus",
+      "Status": "Published",
+      "Source URL": "https://byucougars.com/news/2023/11/1/big-12-announces-football-scheduling-matrix-for-2024-2027-seasons"
+    },
+    "New": {
+      "Home": "BYU",
+      "Away": "Northern Illinois",
+      "Venue": "BYU campus",
+      "Site type": "Campus",
+      "Status": "Venue override"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1750",
+    "Year": 2030,
+    "Week": 3,
+    "Power Team": "Houston",
+    "G6 Opponent": "Southern Miss",
+    "Prior": {
+      "Home": "Southern Miss",
+      "Away": "Houston",
+      "Venue": "Southern Miss campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Houston",
+      "Away": "Southern Miss",
+      "Venue": "Houston campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1755",
+    "Year": 2030,
+    "Week": 1,
+    "Power Team": "TCU",
+    "G6 Opponent": "Western Kentucky",
+    "Prior": {
+      "Home": "Western Kentucky",
+      "Away": "TCU",
+      "Venue": "Western Kentucky campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "TCU",
+      "Away": "Western Kentucky",
+      "Venue": "TCU campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1760",
+    "Year": 2030,
+    "Week": 2,
+    "Power Team": "Boston College",
+    "G6 Opponent": "James Madison",
+    "Prior": {
+      "Home": "James Madison",
+      "Away": "Boston College",
+      "Venue": "James Madison campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Boston College",
+      "Away": "James Madison",
+      "Venue": "Boston College campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1765",
+    "Year": 2030,
+    "Week": 1,
+    "Power Team": "Georgia Tech",
+    "G6 Opponent": "Coastal Carolina",
+    "Prior": {
+      "Home": "Coastal Carolina",
+      "Away": "Georgia Tech",
+      "Venue": "Coastal Carolina campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Georgia Tech",
+      "Away": "Coastal Carolina",
+      "Venue": "Georgia Tech campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1770",
+    "Year": 2030,
+    "Week": 2,
+    "Power Team": "Pitt",
+    "G6 Opponent": "Old Dominion",
+    "Prior": {
+      "Home": "Old Dominion",
+      "Away": "Pitt",
+      "Venue": "Old Dominion campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Pitt",
+      "Away": "Old Dominion",
+      "Venue": "Pitt campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2030-1775",
+    "Year": 2030,
+    "Week": 0,
+    "Power Team": "Virginia Tech",
+    "G6 Opponent": "Delaware",
+    "Prior": {
+      "Home": "Delaware",
+      "Away": "Virginia Tech",
+      "Venue": "Delaware campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Virginia Tech",
+      "Away": "Delaware",
+      "Venue": "Virginia Tech campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1782",
+    "Year": 2031,
+    "Week": 2,
+    "Power Team": "Georgia",
+    "G6 Opponent": "Jacksonville State",
+    "Prior": {
+      "Home": "Jacksonville State",
+      "Away": "Georgia",
+      "Venue": "Jacksonville State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Georgia",
+      "Away": "Jacksonville State",
+      "Venue": "Georgia campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1787",
+    "Year": 2031,
+    "Week": 2,
+    "Power Team": "Ole Miss",
+    "G6 Opponent": "Southern Miss",
+    "Prior": {
+      "Home": "Southern Miss",
+      "Away": "Ole Miss",
+      "Venue": "Southern Miss campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Ole Miss",
+      "Away": "Southern Miss",
+      "Venue": "Ole Miss campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1792",
+    "Year": 2031,
+    "Week": 3,
+    "Power Team": "Texas A&M",
+    "G6 Opponent": "Texas State",
+    "Prior": {
+      "Home": "Texas State",
+      "Away": "Texas A&M",
+      "Venue": "Texas State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Texas A&M",
+      "Away": "Texas State",
+      "Venue": "Texas A&M campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1797",
+    "Year": 2031,
+    "Week": 0,
+    "Power Team": "Maryland",
+    "G6 Opponent": "Delaware",
+    "Prior": {
+      "Home": "Delaware",
+      "Away": "Maryland",
+      "Venue": "Delaware campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Maryland",
+      "Away": "Delaware",
+      "Venue": "Maryland campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1802",
+    "Year": 2031,
+    "Week": 2,
+    "Power Team": "Northwestern",
+    "G6 Opponent": "Missouri State",
+    "Prior": {
+      "Home": "Missouri State",
+      "Away": "Northwestern",
+      "Venue": "Missouri State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Northwestern",
+      "Away": "Missouri State",
+      "Venue": "Northwestern campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1807",
+    "Year": 2031,
+    "Week": 2,
+    "Power Team": "Rutgers",
+    "G6 Opponent": "James Madison",
+    "Prior": {
+      "Home": "James Madison",
+      "Away": "Rutgers",
+      "Venue": "James Madison campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Rutgers",
+      "Away": "James Madison",
+      "Venue": "Rutgers campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1812",
+    "Year": 2031,
+    "Week": 3,
+    "Power Team": "Arizona",
+    "G6 Opponent": "Colorado State",
+    "Prior": {
+      "Home": "Colorado State",
+      "Away": "Arizona",
+      "Venue": "Colorado State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Arizona",
+      "Away": "Colorado State",
+      "Venue": "Arizona campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1817",
+    "Year": 2031,
+    "Week": 0,
+    "Power Team": "Colorado",
+    "G6 Opponent": "New Mexico",
+    "Prior": {
+      "Home": "New Mexico",
+      "Away": "Colorado",
+      "Venue": "New Mexico campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Colorado",
+      "Away": "New Mexico",
+      "Venue": "Colorado campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1822",
+    "Year": 2031,
+    "Week": 1,
+    "Power Team": "Oklahoma State",
+    "G6 Opponent": "Memphis",
+    "Prior": {
+      "Home": "Memphis",
+      "Away": "Oklahoma State",
+      "Venue": "Memphis campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Oklahoma State",
+      "Away": "Memphis",
+      "Venue": "Oklahoma State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1827",
+    "Year": 2031,
+    "Week": 1,
+    "Power Team": "West Virginia",
+    "G6 Opponent": "Old Dominion",
+    "Prior": {
+      "Home": "Old Dominion",
+      "Away": "West Virginia",
+      "Venue": "Old Dominion campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "West Virginia",
+      "Away": "Old Dominion",
+      "Venue": "West Virginia campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1832",
+    "Year": 2031,
+    "Week": 1,
+    "Power Team": "Florida State",
+    "G6 Opponent": "Appalachian State",
+    "Prior": {
+      "Home": "Appalachian State",
+      "Away": "Florida State",
+      "Venue": "Appalachian State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Florida State",
+      "Away": "Appalachian State",
+      "Venue": "Florida State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1837",
+    "Year": 2031,
+    "Week": 3,
+    "Power Team": "NC State",
+    "G6 Opponent": "UAB",
+    "Prior": {
+      "Home": "UAB",
+      "Away": "NC State",
+      "Venue": "UAB campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "NC State",
+      "Away": "UAB",
+      "Venue": "NC State campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  },
+  {
+    "Game ID": "2031-1842",
+    "Year": 2031,
+    "Week": 2,
+    "Power Team": "Virginia",
+    "G6 Opponent": "Marshall",
+    "Prior": {
+      "Home": "Marshall",
+      "Away": "Virginia",
+      "Venue": "Marshall campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional",
+      "Source URL": "Model-generated regional G6 pairing"
+    },
+    "New": {
+      "Home": "Virginia",
+      "Away": "Marshall",
+      "Venue": "Virginia campus",
+      "Site type": "Campus",
+      "Status": "Modeled regional"
+    },
+    "Override Reason": "User-approved model policy: G6 must play on Power Four campus; Notre Dame–Navy exempt"
+  }
+]

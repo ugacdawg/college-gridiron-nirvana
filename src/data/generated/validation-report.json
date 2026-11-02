@@ -1,0 +1,437 @@
+{
+ "inputs": [
+  {
+   "file": "data/cfb_full_games.json",
+   "bytes": 874086,
+   "sha256": "6ebc077f71823e70765288cfa696a5793e1be5044b45e86b80f1e1acb86ae76a"
+  },
+  {
+   "file": "data/College_Football_P4_Scheduling_Model_2027-2031.xlsx",
+   "bytes": 482477,
+   "sha256": "920727097db38d0a2cb35384e6fc7c3debb4bfe72906da8b58ad49640e320cba"
+  },
+  {
+   "file": "data/g6_venue_overrides.json",
+   "bytes": 44976,
+   "sha256": "b6ea3377e39e1b4d4eb5a23ec7d6b72fbcf2c2c7ca58b39593e791c25cec89fe"
+  },
+  {
+   "file": "data/logo-targets.json",
+   "bytes": 26825,
+   "sha256": "601822d80345528ed20c0480c079a29f41d8c0468ae30a0ea8d83a05a096d969"
+  },
+  {
+   "file": "data/model-version.json",
+   "bytes": 2492,
+   "sha256": "df9633e4101523c4c52ac6b0c25023fe95f535e3146d53fdddb90a0e77209a11"
+  },
+  {
+   "file": "data/cfb_validation_issues.json",
+   "bytes": 2,
+   "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+   "file": "source/College_Football_Model_Source_2027-2031.zip",
+   "bytes": 28569,
+   "sha256": "461313da3c7a08b5e393adcf5bdd7f61b202185cca6f7bf48ffc61056ed9fe6c"
+  }
+ ],
+ "counts": {
+  "games": 2210,
+  "seasons": [
+   2027,
+   2028,
+   2029,
+   2030,
+   2031
+  ],
+  "powerTeams": 68,
+  "g6Programs": 66
+ },
+ "checks": [
+  {
+   "id": "roster-logo-targets",
+   "label": "Roster matches logo-targets.json (134 schools, 68 Power)",
+   "expected": "134 schools",
+   "actual": "134 schools",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "roster-source",
+   "label": "Roster matches cfb_model.py (CONF + Notre Dame, G6)",
+   "expected": "match",
+   "actual": "match",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "roster-workbook",
+   "label": "Roster matches workbook (06 participants, 11 G6 leagues)",
+   "expected": "match",
+   "actual": "match",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "years",
+   "label": "Seasons present",
+   "expected": "2027, 2028, 2029, 2030, 2031",
+   "actual": "2027, 2028, 2029, 2030, 2031",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "rows",
+   "label": "Fixture rows",
+   "expected": "2210",
+   "actual": "2210",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "unique-ids",
+   "label": "Distinct Game IDs",
+   "expected": "2210",
+   "actual": "2210",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "per-year",
+   "label": "Unique games per season",
+   "expected": "442",
+   "actual": "442",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "conf-per-year",
+   "label": "Conference games per season",
+   "expected": "301",
+   "actual": "301",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "p4nc-per-year",
+   "label": "P4 nonconference games per season",
+   "expected": "73",
+   "actual": "73",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-per-year",
+   "label": "G6 games per season",
+   "expected": "68",
+   "actual": "68",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "participants",
+   "label": "Power-participant population (67 conference + Notre Dame)",
+   "expected": "68",
+   "actual": "68",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "conference-sizes",
+   "label": "Conference sizes",
+   "expected": "SEC 16, Big Ten 18, Big 12 16, ACC 17",
+   "actual": "SEC 16, Big Ten 18, Big 12 16, ACC 17",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "fcs",
+   "label": "FCS or unknown opponents",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "games-per-team",
+   "label": "Games per team-season",
+   "expected": "12 for all 340 team-seasons",
+   "actual": "12 for all 340 team-seasons",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "p4-per-team",
+   "label": "Power-pool opponents per team-season",
+   "expected": "11 for all 340 team-seasons",
+   "actual": "11 for all 340 team-seasons",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-per-team",
+   "label": "G6 opponents per team-season",
+   "expected": "1 for all 340 team-seasons",
+   "actual": "1 for all 340 team-seasons",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "conf-per-team",
+   "label": "Conference games per team-season",
+   "expected": "9 (SEC/Big Ten/Big 12); ACC 9 or the yearly 8; Notre Dame 0",
+   "actual": "9 (SEC/Big Ten/Big 12); ACC 9 or the yearly 8; Notre Dame 0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "byes",
+   "label": "Bye weeks per team-season",
+   "expected": "2 for all 340 team-seasons",
+   "actual": "2 for all 340 team-seasons",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "acc-eight",
+   "label": "ACC eight-game exception by season",
+   "expected": "2027 Clemson; 2028 Stanford; 2029 SMU; 2030 California; 2031 Boston College",
+   "actual": "2027 Clemson; 2028 Stanford; 2029 SMU; 2030 California; 2031 Boston College",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "week-range",
+   "label": "Weeks are integers 0–13",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "week-dates",
+   "label": "Each season-week has one modeled Saturday",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "double-bookings",
+   "label": "Weekly double bookings (all participants)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "duplicate-pairs",
+   "label": "Same pairing twice in a season / self-play",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "nd-navy",
+   "label": "Notre Dame–Navy exactly once per season; no other ND G6; 11 P4 nonconference",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "nd-usc",
+   "label": "Notre Dame–USC seasons (hiatus 2027–2029)",
+   "expected": "2030, 2031",
+   "actual": "2030, 2031",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "bye-spacing",
+   "label": "Byes at least 4 games apart (no back-to-back byes)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "no-repeat-nc",
+   "label": "No P4 non-conference pair in consecutive seasons (beyond protected rivalries and listed published series)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "required-games",
+   "label": "Required meetings present (Clemson–Notre Dame 2030)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-home",
+   "label": "P4–G6 games on the Power Four school's home campus",
+   "expected": "335 / 335",
+   "actual": "335 / 335",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-home-yearly",
+   "label": "P4-campus G6 games per season (67 each)",
+   "expected": "67, 67, 67, 67, 67",
+   "actual": "67, 67, 67, 67, 67",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "nd-navy-venue",
+   "label": "Notre Dame–Navy venue exception (home or away allowed)",
+   "expected": "2027:Notre Dame; 2028:Navy; 2029:Notre Dame; 2030:Navy; 2031:Notre Dame",
+   "actual": "2027:Notre Dame; 2028:Navy; 2029:Notre Dame; 2030:Navy; 2031:Notre Dame",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-overrides",
+   "label": "g6_venue_overrides.json: 68 corrections (7 published) reconcile by Game ID",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "fla-uga",
+   "label": "Florida–Georgia venues",
+   "expected": "2027:N:Tampa; 2028:N:Jacksonville; 2029:N:Jacksonville; 2030:N:Jacksonville; 2031:N:Jacksonville",
+   "actual": "2027:N:Tampa; 2028:N:Jacksonville; 2029:N:Jacksonville; 2030:N:Jacksonville; 2031:N:Jacksonville",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "ou-tex",
+   "label": "Oklahoma–Texas venues",
+   "expected": "2027:N:Dallas; 2028:N:Dallas; 2029:N:Dallas; 2030:N:Dallas; 2031:N:Dallas",
+   "actual": "2027:N:Dallas; 2028:N:Dallas; 2029:N:Dallas; 2030:N:Dallas; 2031:N:Dallas",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "neutral-venues",
+   "label": "Neutral games list a non-campus venue",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "ha-coverage",
+   "label": "Intra-conference pairs with both administrative home directions (2027–31)",
+   "expected": "529 / 529",
+   "actual": "529 / 529",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "ha-workbook",
+   "label": "`05 | Conference H-A` matches fixtures",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "rivalry-locks",
+   "label": "Protected rivalry fixtures match `07 | Rivalry Locks` (55 pairs × 5 seasons)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "cross-rivals",
+   "label": "Six cross-conference rivalries annual",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "reconciliation",
+   "label": "Every fixture on exactly one weekly board and in each Power participant's schedule",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "overview",
+   "label": "`01 | Overview` KPIs match fixtures",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "annual-validation",
+   "label": "`06 | Annual Validation` matches fixtures",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-workbook",
+   "label": "`11 | G6 Assignments` matches fixtures",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "workbook-weekly",
+   "label": "`02 | Weekly Games` vs canonical JSON (ID, year, week, date, host, visitor, leagues, venue, status)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "workbook-team-games",
+   "label": "`04 | Team Games` (4,080 team rows) vs fixtures incl. H/A/N",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "workbook-calendar",
+   "label": "`03 | Team Calendar` byes and opponents vs fixtures",
+   "expected": "0",
+   "actual": "0",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "g6-hosting-script",
+   "label": "scripts/validate-g6-hosting.mjs",
+   "expected": "PASS",
+   "actual": "PASS",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "id": "solver-issues",
+   "label": "Original solver validation issues (cfb_validation_issues.json)",
+   "expected": "0",
+   "actual": "0",
+   "pass": true
+  }
+ ],
+ "originalSolverIssues": []
+}
